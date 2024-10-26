@@ -1,6 +1,6 @@
-# Simple Hospital Managment System API 🏥
+# Simple Clinic Managment System API 🏥
 
-- A project has been developed to instantiate an endpoints of hospital managmnet system. 🏥
+- A project has been developed to instantiate an endpoints of Clinic managmnet system. 🏥
 - Provide The CRUD Operations for all Models. ➕➖
 - Provide some queries on data. ℹ️❓
 - Implemented with Clean Architecture, SOLID Pricnciples, Design Patterns. ✔️
