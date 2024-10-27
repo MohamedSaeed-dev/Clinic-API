@@ -1,4 +1,4 @@
-# Simple Clinic Managment System API 🏥
+# Clinic Managment System API 🏥
 
 - A project has been developed to instantiate an endpoints of Clinic managmnet system. 🏥
 - Provide The CRUD Operations for all Models. ➕➖
